@@ -7,17 +7,25 @@
 
 <div align="center">
   <a target="_blank" href="https://ekaterinburg.hh.ru/resume/0cbdb721ff0c31f28e0039ed1f4f544b626f58">
-    <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logoColor=white" alt="HeadHunter Badge"/>
+    <img src="https://img.shields.io/badge/HeadHunter-FF0000?style=for-the-badge&logo=hh&logoColor=white" alt="HeadHunter Badge"/>
   </a>
   <a target="_blank" href="https://t.me/Taneellaa">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a target="_blank" href="https://www.codewars.com/users/azvrt">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
+  </a>
+  <a target="_blank" href="https://leetcode.com/tanella/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=raskolnikOFF27&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Taneellaa&style=flat-square&color=blue" alt=""/>
+  <img src="https://img.shields.io/github/followers/Taneellaa?style=social" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/Taneellaa?style=social" alt="GitHub stars"/>
 </div>
 
 ###
@@ -98,33 +106,25 @@
 
 ###
 
-<div align="center">
-  <a target="_blank" href="https://leetcode.com/your-profile/">
-    <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=light&font=Karma&ext=contest" alt="LeetCode Stats" height="150"/>
-  </a>
-</div>
-
-###
-
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raskolnikOFF27&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raskolnikOFF27&theme=bear&layout=compact&hide_border=true&locale=ru" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Taneellaa&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taneellaa&theme=bear&layout=compact&hide_border=true&locale=ru" height="150"/>
 </p>
 
 ###
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raskolnikOFF27&theme=radical&no-frame=true&no-bg=true&margin-w=4" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Taneellaa&theme=radical&no-frame=true&no-bg=true&margin-w=4" height="150"/>
 </p>
 
 ###
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raskolnikOFF27/raskolnikOFF27/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raskolnikOFF27/raskolnikOFF27/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/raskolnikOFF27/raskolnikOFF27/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taneellaa/Taneellaa/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taneellaa/Taneellaa/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Taneellaa/Taneellaa/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
