@@ -116,14 +116,6 @@
 
 ###
 
-<div align="center">
-  <a target="_blank" href="https://leetcode.com/tanella/">
-    <img src="https://leetcode-stats-six.vercel.app/?username=tanella&theme=dark" alt="LeetCode Stats" height="150"/>
-  </a>
-</div>
-
-###
-
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
