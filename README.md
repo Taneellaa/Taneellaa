@@ -24,7 +24,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Taneellaa&style=flat-square&color=blue" alt=""/>
-  <img src="https://img.shields.io/github/followers/Taneellaa?style=social" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/followers/Taneellaa" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/stars/Taneellaa" alt="GitHub stars"/>
 </div>
 
