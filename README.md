@@ -118,15 +118,6 @@
 
 ###
 
-<h3 align="center">📈 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taneellaa&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taneellaa&theme=bear&layout=compact&hide_border=true&locale=ru" height="150"/>
-</p>
-
-###
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Taneellaa&theme=radical&no-frame=true&no-bg=true&margin-w=4" height="150"/>
 </p>
